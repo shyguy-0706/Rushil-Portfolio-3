@@ -1,5 +1,3 @@
-# Hi there , I'm Rushil Gupta
-
 ## About Me  
 I’m a technology enthusiast passionate about **Robotics, Artificial Intelligence, and Automation**.  
 I enjoy exploring how emerging technologies can be applied to solve real-world problems and create smarter solutions.  
