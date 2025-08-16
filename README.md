@@ -38,6 +38,6 @@ My goal is to contribute to the field of **intelligent systems, innovation, and 
 ---
 
 ## Connect with Me  
-- Email: [rushilgupta706@gmail.com](mailto:rushil.gupta766@gmail.com)  
+- Email: [rushil.gupta766@gmail.com](rushil.gupta766@gmail.com)  
 - GitHub: [shyguy-0706](https://github.com/shyguy-0706)  
 - LinkedIn: [Rushil Gupta](https://www.linkedin.com/in/rushil-gupta-muj-aiml/)  
